@@ -1,6 +1,6 @@
 # asdf-layrry
 
-[![GitHub Actions Status](https://github.com/joschi/asdf-layrry/workflows/Main%20workflow/badge.svg?branch=main)](https://github.com/joschi/asdf-layrry/actions)
+[![GitHub Actions Status](https://github.com/joschi/asdf-layrry/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/joschi/asdf-layrry/actions)
 [![GitHub license](https://img.shields.io/github/license/joschi/asdf-layrry?style=plastic)](https://github.com/joschi/asdf-layrry/blob/master/LICENSE)
 
 ## layrry
